@@ -1,7 +1,7 @@
 # vacante-LB
-##Criterios
+## Criterios
 
-###Pantalla 1:
+### Pantalla 1:
 
   *- Se debe cargar una array de datos guardados en los string a una lista*
 
@@ -11,7 +11,7 @@
 
   *- Los items seleccionados y no seleccionados deben acomodarse alfabéticamente*
   
-###Pantalla 2:
+### Pantalla 2:
 
   *- Debe agregar un nuevo item*
 
